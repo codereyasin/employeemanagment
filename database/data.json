@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "name": "Eyasin",
+        "avatar": "https://media-exp1.licdn.com/dms/image/C5603AQHGjq4eV8KIMg/profile-displayphoto-shrink_200_200/0/1659946479199?e=1673481600&v=beta&t=xEEuO_rD7Acc0RH2X4MJYpcipNd81NutqNQWwqTtA0c",
+        "email": "eyasin@gmail.com",
+        "salary" : "25000",
+        "date": "2022-06-08",
+        "status": "Active"
+    },{
+        "id": 1,
+        "name": "Eyasin Arafat",
+        "avatar": "https://media-exp1.licdn.com/dms/image/C5603AQHGjq4eV8KIMg/profile-displayphoto-shrink_200_200/0/1659946479199?e=1673481600&v=beta&t=xEEuO_rD7Acc0RH2X4MJYpcipNd81NutqNQWwqTtA0c",
+        "email": "eyasinarafat@gmail.com",
+        "salary" : "250000",
+        "date": "2022-06-21",
+        "status": "Unactive"
+    }
+]
